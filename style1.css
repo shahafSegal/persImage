@@ -1,0 +1,41 @@
+/*
+body{
+    margin: 0;
+    margin-top: 150px;
+    background-color: #474751;
+    color: #ffd700;
+
+    
+}
+article{
+    margin-left: 50px;
+}
+header{
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #373741;
+    padding: 10px;
+    color:#ffd700
+}
+footer{
+    text-align: center;
+    width: 100%;
+    background-color: #5d5d6d;
+    padding: 10px;
+    color: pink;
+    margin: 0;
+}
+
+a,span{
+    color: #daa520;
+    text-decoration: none;
+}
+*/ 
+
+body {
+    background-color: #474751;
+    color: #ffd700;
+}
