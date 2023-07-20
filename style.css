@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(71, 71, 81);
+}
+
+p,h1,h2,h3{
+    color: gold;
+}
+a,span{
+    color: goldenrod;
+}
