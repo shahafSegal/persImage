@@ -8,12 +8,27 @@ header{
     background-color: #373741;
     color:#ffd700
 }
-footer{
-    background-color: #5d5d6d;
-    color: pink;
+
+h3,h4{
+    color: #ff7300;
 }
 
+footer{
+    background-color: #5d5d6d;
+    color: #6a9955;
+}
+
+table {
+    border: 2px solid #456338; 
+  }
+  
+  td, th {
+    border: 1px solid #456338; 
+  }
+
 a,span{
-    color: #daa520;
+    
+
+    color: #1fada1;
 
 }

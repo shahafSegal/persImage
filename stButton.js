@@ -2,7 +2,7 @@ const switchButton = document.getElementById('switchButton');
 const stylesheet = document.getElementById('stylesheet');
 
 let isStylesheet1Active = true;
-
+/*when button is pressed change style, change button text and when pressed again changes back style*/
 switchButton.addEventListener('click', () => {
     if (isStylesheet1Active) {
         stylesheet.href = 'style2.css';

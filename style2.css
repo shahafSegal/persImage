@@ -7,11 +7,22 @@ header{
     background-color: #B68D40;
     color:#FFFDD0
 }
+h3,h4{
+    color: #ff7300;
+}
 footer{
     background-color: #D6AD60;
-    color: pink;
+    color: #5240b6;
 }
 
+table {
+    border: 2px solid #5240b6; 
+  }
+  
+  td, th {
+    border: 1px solid #5240b6; 
+  }
+
 a,span{
-    color: #cccaa0;
+    color: #b64069;
 }
